@@ -73,3 +73,9 @@ Cryptocurrencies allow for secure payments online which are denominated in terms
 
 ## What Are the Most Popular Cryptocurrencies?
 Bitcoin is by far the most popular cryptocurrency, followed by other cryptocurrencies such as Etherum, Litecoin, and Cardano.
+
+## Contributors :
+1. Aaquib Ali
+2. Ruthvik
+3. Ekta Arora
+4. Shrejal Singh
